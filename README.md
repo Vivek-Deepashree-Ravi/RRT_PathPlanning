@@ -13,7 +13,7 @@ rosdep install --from-paths src --ignore-src -r -y
 1. Having this directory as the present working directory, build the project
 
 ```bash
-catkin_make
+catkin_build
 ```
 
 2. Source the files
